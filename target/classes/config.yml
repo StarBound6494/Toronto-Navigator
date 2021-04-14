@@ -1,0 +1,9 @@
+locations:
+  - Spawn:
+      x: 0
+      y: 100
+      z: 0
+  - new:
+      x: 25
+      y: 100
+      z: 25
