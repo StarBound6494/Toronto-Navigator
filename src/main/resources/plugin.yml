@@ -1,0 +1,10 @@
+name: TorontoNavigator
+version: 0.1
+author: StarBound
+main: net.inizicraft.starbound.NavigatorMain
+api-version: 1.16
+load: POSTWORLD
+commands:
+  toronto:
+    description: TorontoNavigator
+    usage: /<command>
